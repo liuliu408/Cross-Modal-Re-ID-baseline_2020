@@ -88,4 +88,6 @@ light and thermal cameras. Sensors, 17(3):605, 2017.
 
 [3]  M. Ye, Z. Wang, X. Lan, and P. C. Yuen. Visible thermal person reidentification via dual-constrained top-ranking. In International Joint Conference on Artificial Intelligence (IJCAI), pages 1092–1099, 2018.
 
-Contact: mangye16@gmail.com
+[4]Liu Qiang, Teng Qizhi, Chen Honggang, Li Bo, Qing Linbo. Dual adaptive alignment and partitioning network for visible and infrared cross-modality person re-identification [J]. Applied Intelligence, 2022, 52(1): 547-563.
+
+[5]Liu Qiang, He Xiaohai, Zhang Mozhi, Teng Qizhi, Li Bo, Qing Linbo. Feature separation and double causal comparison loss for visible and infrared person re-identification [J]. Knowledge-Based Systems, 2022, 239: 108042.
